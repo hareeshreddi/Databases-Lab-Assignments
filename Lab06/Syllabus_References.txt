@@ -1,0 +1,27 @@
+Hello All,
+
+In addition to the discussions during the class the following material
+would be of help for the lab session on 23-Feb-2018.
+
+Local variables:
+https://dev.mysql.com/doc/refman/5.7/en/declare-local-variable.html
+
+Conditional statements:
+        if: https://dev.mysql.com/doc/refman/5.7/en/if.html
+        case: https://dev.mysql.com/doc/refman/5.7/en/case.html
+
+Loops:
+        simple loop: https://dev.mysql.com/doc/refman/5.7/en/loop.html
+        while : https://dev.mysql.com/doc/refman/5.7/en/while.html
+        repeat until: https://dev.mysql.com/doc/refman/5.7/en/repeat.html
+
+Stored procedures/functions:
+https://dev.mysql.com/doc/refman/5.7/en/create-procedure.html
+
+cursors: https://dev.mysql.com/doc/refman/5.7/en/declare-cursor.html
+
+fetch: https://dev.mysql.com/doc/refman/5.7/en/fetch.html
+
+Error Handlers: https://dev.mysql.com/doc/refman/5.7/en/declare-handler.html
+
+saradhi
