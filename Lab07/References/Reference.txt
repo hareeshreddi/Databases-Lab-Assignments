@@ -1,0 +1,7 @@
+Cassandra distributed internal architecture link ->
+
+   To know how the token ranges are evenly distributed, replication
+process etc..., go through the link provided below.
+
+
+https://github.com/duf59/DataStax_Cassandra_Notes/blob/master/Understanding%20the%20Cassandra%20Architecture.md

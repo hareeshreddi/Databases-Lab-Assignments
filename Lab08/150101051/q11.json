@@ -1,0 +1,352 @@
+[
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "EfRakesh",
+      "961751163233169408",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "vishal9815",
+      "961750970442158082",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "joshuadavid_uk",
+      "961750670616481798",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "EfRakesh",
+      "961751086519349248",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "vishal9815",
+      "961751471678279680",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "joshuadavid_uk",
+      "961750723229880320",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "abha0276",
+      "961750513955024897",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "EfRakesh",
+      "961751262411698176",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "EfRakesh",
+      "961750944789622784",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "abha0276",
+      "961750549560483840",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "NadkarAmit",
+      "961750665151172608",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "EfRakesh",
+      "961750850153541633",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  },
+  {
+    "keys": [
+      "u1.author_screen_name",
+      "t1.tid",
+      "u2.author_screen_name",
+      "t2.tid",
+      "count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750434103705600",
+      "NadkarAmit",
+      "961751009784573952",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "u1.author_screen_name": 0,
+      "t1.tid": 1,
+      "u2.author_screen_name": 2,
+      "t2.tid": 3,
+      "count": 4
+    }
+  }
